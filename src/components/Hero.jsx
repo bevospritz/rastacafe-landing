@@ -11,6 +11,11 @@ export default function Hero() {
       <div className="absolute inset-0 bg-rasta-dark/75" />
 
       <div className="relative z-10 max-w-4xl mx-auto text-center">
+        <img
+          src="/Rasta-Lion-Logo.png"
+          alt="RastaCafe"
+          className="h-28 w-auto mx-auto mb-6"
+        />
         <span className="inline-block bg-rasta-gold/20 text-rasta-gold text-xs font-semibold px-3 py-1 rounded-full mb-6 uppercase tracking-wide border border-rasta-gold/30">
           Rastreabilidade do café
         </span>
