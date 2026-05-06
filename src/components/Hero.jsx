@@ -26,7 +26,7 @@ export default function Hero() {
         <p className="text-lg sm:text-xl text-gray-300 max-w-2xl mx-auto mb-10">
           A União Europeia exige rastreabilidade total do café importado.
           Transforme essa obrigação em vantagem: registre sua produção de forma
-          simples e tenha dados reais para melhorar sua fazenda.
+          simples e tenha dados reais para melhorar sua fazenda e a qualidade do seu cafè.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
